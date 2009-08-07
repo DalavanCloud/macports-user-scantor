@@ -7,7 +7,7 @@ name                shibboleth
 version             2.2
 revision            1
 categories          security shibboleth
-maintainers         snc osu.edu:cantor.2
+maintainers         snc scantor
 description         Shibboleth Native Service Provider
 long_description    The Shibboleth System is a standards based, open source \
                     software package for web single sign-on across or within \
